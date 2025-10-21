@@ -22,7 +22,6 @@
     <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmotide&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
   </div>
 </details>
-###
 
 ###
 
