@@ -5,7 +5,6 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-<a href="https://github.com/salwater"><img align="left" width="120" src="/img/yozakura mutsumi/mutsumi.png"></img></a>
 - Name: **Salomo Putra Hadiwijaya** ( salwater )
 - Residing in: **Ngawi, Indonesia**
 - Pronouns: **He/Him/ Man/Lanang/Jantan/Laki-Laki/Pria/男**
@@ -17,13 +16,12 @@
 ## **Github Stat**
 
 ###
-
-<div align="center">
-  <a href="https://github.com/salwater"><img src="https://github-readme-stats.vercel.app/api?username=salwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="stats graph"  /></a>
-  <a href="https://github.com/salwater"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
-
-</div>
-
+<details>
+  <div align="center">
+    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api?username=salwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="stats graph"  /></a>
+    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
+  </div>
+</details>
 ###
 
 ###
