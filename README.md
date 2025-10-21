@@ -1,4 +1,4 @@
-<a href="https://github.com/salwater"><img src="/img/yozakura mutsumi/bg mutsumi.webp  /"></a>
+<a href="https://github.com/salmotide"><img src="/img/yozakura mutsumi/bg mutsumi.webp  /"></a>
 
 <a href="https://discord.gg/3BPj4ntaMA"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/736455354589642892?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Just%20need%20learning%20someting..."></a>
 
@@ -18,8 +18,8 @@
 ###
 <details>
   <div align="center">
-    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api?username=salwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="stats graph"  /></a>
-    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
+    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api?username=salmotide&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="stats graph"  /></a>
+    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmotide&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
   </div>
 </details>
 ###
