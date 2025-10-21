@@ -5,7 +5,7 @@
 ### Hi 🙌 I'm SALOMO 🙇
 *Still learning someting*
 ## **About Me**
-- Name: **Salomo Putra Hadiwijaya** ( salwater )
+- Name: **Salomo Putra Hadiwijaya** ( salmotide )
 - Residing in: **Ngawi, Indonesia**
 - Pronouns: **He/Him/ Man/Lanang/Jantan/Laki-Laki/Pria/男**
 - I like to: **Coding, Anime, and Playing Games**
