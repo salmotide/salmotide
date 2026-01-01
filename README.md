@@ -6,7 +6,7 @@
 *Still learning, Still moving*
 ## **About Me**
 - Name: **Salomo Putra Hadiwijaya** ( salmotide )
-- Residing in: **Ngawi, Indonesia**
+- Location: **Indonesia**
 - Status: **Student & Part-time Worker**
 - Currently: **Learning Programing step by step**
 - Interests: **Coding, Anime, Playing Games**
