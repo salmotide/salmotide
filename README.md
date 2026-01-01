@@ -13,14 +13,13 @@
 - Language: **Indonesia, English**
 <br></br>
 
-## **Github stat**
-
 ###
 <details>
+<summary><strong>Still Learning</strong></summary>
   </div>
   <div align="center">
     <a href="https://github.com/salmotide"><img src="https://github-readme-stats-rimueirnarn.vercel.app/api?username=salmotide&show_icons=true&theme=tokyonight&count_private=true"  /></a>
-    <a href="https://github.com/salmotide"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmotide&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&bg_color=0D1117" height="50%" alt="languages graph"  /></a>
+    
   </div>
 </details>
 
